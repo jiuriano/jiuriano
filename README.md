@@ -2,10 +2,10 @@
 
 ## Sobre mim
 - 👀 Interessado em desenvolvimento de Front-end.
-- 🌱 Estou aprendendo programação com HTML, CSS e Javascript
-- 💞️ Procurando oportunidades para contribuir com projetos de código aberto.
+- 🌱 Estou aprendendo programação com HTML, CSS e Javascript.
+- 💞️ Quero contribuir com projetos de código aberto.
 - 😄 Pronomes: ele/dele.
-- ⚡ Curiosidade: Sou novo na área da programação
+- ⚡ Curiosidade: Sou novo na área da programação.
 
 ## Como me encontrar
 - 📫 E-mail: giulianofinetto@hotmail.com
