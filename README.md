@@ -34,6 +34,6 @@
 </div>
 
 ## Projetos em Destaque
-- **[calculadora-beta](https://github.com/jiuriano/calculadora-beta)**: Projeto simples de uma calculadora.
-- **[calendario-beta](https://github.com/jiuriano/calendario-beta)**: Projeto simples de um calendario.
-- **[gato-portfolio](https://github.com/jiuriano/gato-portfolio)**: Projetos simples de um portfolio (teste).
+- **[calculadora-beta](https://calculadora-beta-rho.vercel.app)**: Projeto simples de uma calculadora.
+- **[calendario-beta](https://calendario-beta-eight.vercel.app)**: Projeto simples de um calendario.
+- **[gato-portfolio](https://gato-portfolio.vercel.app)**: Projetos simples de um portfolio (teste).
