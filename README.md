@@ -10,7 +10,7 @@
 ## Como me encontrar
 - 📫 E-mail: giulianofinetto@hotmail.com
 - 💼 LinkedIn: [linkedin.com/in/giulianofinetto](https://www.linkedin.com/in/giulianofinetto/)
-- 🌐 Site: [giulianofinetto.com](https://unit.link/giulianofinetto)
+- 🌐 Site: [giulianofinetto.com](https://paginadelinks-neon.vercel.app)
 
 ## Estatísticas do GitHub
 <picture>
