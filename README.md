@@ -1,32 +1,51 @@
-# Olá, eu sou Giuliano Finetto
+# 👋 Olá, eu sou Giuliano Finetto
 
-Desenvolvedor em aprendizado, com foco em Front-end.
+### 💻 Desenvolvedor em aprendizado | Front-end
 
-## Sobre mim
+Estou aprendendo desenvolvimento web e construindo meus primeiros projetos, com foco principalmente em **HTML, CSS e JavaScript**.
 
-* Interessado em desenvolvimento Front-end
-* Estudando HTML, CSS e JavaScript
-* Aprendendo e praticando Python
-* Buscando contribuir com projetos open source
-* Sempre procurando aprender algo novo e melhorar meus projetos
+Gosto de aprender na prática, testar novas ideias e transformar o que estudo em projetos que possam ser utilizados de verdade.
 
-## Contato
+---
 
-* Email: [giulianofinetto@hotmail.com](mailto:giulianofinetto@hotmail.com)
-* LinkedIn: [linkedin.com/in/giulianofinetto](https://www.linkedin.com/in/giulianofinetto/)
-* Portfólio: [paginadelinks-neon.vercel.app](https://paginadelinks-neon.vercel.app)
+## 🚀 Sobre mim
 
-## Estatísticas
+* 🌱 Atualmente estudando **HTML, CSS e JavaScript**
+* 🐍 Também aprendendo **Python**
+* 💻 Interessado em **desenvolvimento Front-end**
+* 🔎 Buscando evoluir através de projetos próprios
+* 🤝 Aberto a contribuir com projetos **open source**
+* 📚 Sempre aprendendo alguma coisa nova
+
+---
+
+## 🛠️ Tecnologias
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jiuriano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiuriano&layout=compact&theme=tokyonight"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="45" height="45" alt="JavaScript">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python">
 
 </div>
 
-## Streak
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jiuriano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiuriano&layout=compact&theme=tokyonight"/>
+
+</div>
+
+<br>
 
 <div align="center">
 
@@ -34,35 +53,48 @@ Desenvolvedor em aprendizado, com foco em Front-end.
 
 </div>
 
-## Tecnologias
+---
 
-<div align="center">
+## 💻 Projetos
 
-<img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+### 🧮 Calculadora
 
-</div>
+Uma calculadora desenvolvida para praticar lógica de programação e interação com a página.
 
-## Projetos
+🔗 https://calculadora-beta-rho.vercel.app
 
-### Calculadora
+### 📅 Calendário
 
-https://calculadora-beta-rho.vercel.app
+Projeto de calendário desenvolvido como parte dos meus estudos de desenvolvimento web.
 
-### Calendário
+🔗 https://calendario-beta-eight.vercel.app
 
-https://calendario-beta-eight.vercel.app
+### 🎨 Portfólio
 
-### Portfólio
+Um projeto de portfólio criado para apresentar trabalhos e experimentar diferentes ideias de interface.
 
-https://gato-portfolio.vercel.app
-
-## Frase
-
-> “Consistência vence talento quando o talento não é consistente.”
+🔗 https://gato-portfolio.vercel.app
 
 ---
 
-Obrigado por visitar meu perfil.
+## 🌐 Onde me encontrar
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-giulianofinetto%40hotmail.com-0078D4?style=for-the-badge\&logo=microsoftoutlook\&logoColor=white)](mailto:giulianofinetto@hotmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Giuliano%20Finetto-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/giulianofinetto/)
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-Acessar-6C63FF?style=for-the-badge\&logo=vercel\&logoColor=white)](https://paginadelinks-neon.vercel.app)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🧠 “Consistência vence talento quando o talento não é consistente.”
+
+**Obrigado por visitar meu perfil!**
+
+</div>
